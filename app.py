@@ -244,7 +244,7 @@ def extract_patterns(data, category):
 with st.expander("ℹ️ About Developer & Project", expanded=False):
     st.markdown("""
     <div class="developer-box">
-        <h2>👨‍💻 Developed by: M Faby Rizky K, B.Mgt., M.MT</h2>
+        <h2>👨‍💻 Developed by: M Faby Rizky K and Patria & Co</h2>
         <h3>🚀 Future STEM News Intelligence</h3>
         <p style="font-size: 1.1rem; margin: 1rem 0;">
             An advanced AI-powered platform designed to revolutionize how we consume and analyze 
